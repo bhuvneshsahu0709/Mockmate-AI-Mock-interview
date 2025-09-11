@@ -73,11 +73,11 @@ function Header() {
         <Link 
           href="/" 
           className="flex items-center gap-2"
-          aria-label="Bhuvnesh Sahu Home"
+          aria-label="MockMate Home"
           onClick={closeMobileMenu}
         >
           <Bot className="text-indigo-600" size={28} />
-          <span className="text-xl sm:text-2xl font-bold text-indigo-600">Bhuvnesh Sahu</span>
+          <span className="text-xl sm:text-2xl font-bold text-indigo-600">MockMate</span>
         </Link>
 
         {/* Desktop Navigation */}

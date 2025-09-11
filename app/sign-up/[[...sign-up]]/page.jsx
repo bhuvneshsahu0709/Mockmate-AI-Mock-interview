@@ -11,7 +11,7 @@ export default function SignUpPage() {
           className="absolute inset-0 w-full h-full object-cover opacity-80"
         />
         <div className="relative z-10 p-12 text-white">
-          <h2 className="text-4xl font-bold mb-4">Join Bhuvnesh Sahu ✨</h2>
+          <h2 className="text-4xl font-bold mb-4">Join MockMate ✨</h2>
           <p className="text-lg leading-relaxed text-white/90">
             AI-powered mock interviews to boost your career.
           </p>

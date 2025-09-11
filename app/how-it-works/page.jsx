@@ -42,7 +42,7 @@ const HowItWorksPage = () => {
       <div className="text-center mb-12">
         <h1 className="text-4xl font-bold text-gray-800 mb-4">
           <Bot className="inline-block mr-3 text-indigo-600" size={48} />
-          Bhuvnesh Sahu: Your Interview Preparation Companion
+          MockMate: Your Interview Preparation Companion
         </h1>
         <p className="text-xl text-gray-600">
           Master your interviews with AI-powered practice and personalized insights

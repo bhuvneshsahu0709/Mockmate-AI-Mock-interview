@@ -12,7 +12,7 @@ export default function SignInPage() {
           className="absolute inset-0 w-full h-full object-cover opacity-80"
         />
         <div className="relative z-10 p-12 text-white">
-          <h2 className="text-4xl font-bold mb-4">Welcome to Bhuvnesh Sahu ✨</h2>
+          <h2 className="text-4xl font-bold mb-4">Welcome to MockMate ✨</h2>
           <p className="text-lg leading-relaxed text-white/90">
             Prepare for interviews with AI-powered mock sessions.
           </p>
@@ -29,7 +29,7 @@ export default function SignInPage() {
               className="mx-auto w-16 h-16"
             />
             <h1 className="mt-4 text-2xl font-bold text-gray-900">
-              Welcome to Bhuvnesh Sahu
+              Welcome to MockMate
             </h1>
             <p className="mt-2 text-sm text-gray-500">
               Sign in to start your mock interview journey.

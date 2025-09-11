@@ -2,8 +2,8 @@ import "./globals.css";
 import { ClerkProvider } from "@clerk/nextjs";
 
 export const metadata = {
-  title: "Bhuvnesh Sahu",
-  description: "AI-powered mock interview simulator",
+  title: "MockMate",
+  description: "AI-powered mock interview simulator by Bhuvnesh Sahu",
 };
 
 const hasClerk = process.env.NEXT_PUBLIC_ENABLE_CLERK === "true";
