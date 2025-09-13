@@ -4,7 +4,8 @@
 
 MockMate is an AI-powered mock interview simulator (powered by Gemini API) that helps you prepare for real-world technical and HR interviews. Practice in a conversational format, get AI-generated feedback, and receive a **performance rating out of 10** to track your growth.
 
-🔗 **Live Demo**: mockmate-ai-mock-interview.vercel.app
+🔗 **[Live Demo]([https://your-demo-link.com](https://mockmate-ai-mock-interview.vercel.app/))**
+
 
 ---
 
