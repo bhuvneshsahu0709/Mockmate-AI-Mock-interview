@@ -2,7 +2,7 @@
 
 **Author:** Bhuvnesh Sahu
 
-MockMate is an AI-powered mock interview simulator built to help individuals prepare for real-world technical and HR interviews. Practice interviews in a conversational format using GPT-based AI.
+MockMate is an AI-powered mock interview simulator (powered by Gemini API) that helps you prepare for real-world technical and HR interviews. Practice in a conversational format, get AI-generated feedback, and receive a **performance rating out of 10** to track your growth.
 
 🔗 **Live Demo**: _Coming soon_
 
@@ -14,7 +14,11 @@ MockMate is an AI-powered mock interview simulator built to help individuals pre
 - 🎯 **Role Selection** – Choose Developer, Designer, Product Manager, etc.
 - 🧠 **Smart Conversations** – GPT-powered responses simulate realistic interviews.
 - 💬 **Clean UI** – Minimal, responsive interface for distraction-free practice.
-- 📊 **Performance Tools** – Save responses, generate feedback, and analyze your performance.
+- 📊 **Performance Tools**:
+  - Save your answers for review
+  - Get AI-generated feedback
+  - Receive a performance **rating out of 10**
+  - Track your improvement over time
 
 ---
 
@@ -23,7 +27,7 @@ MockMate is an AI-powered mock interview simulator built to help individuals pre
 - [Next.js 14 (App Router)](https://nextjs.org/)
 - [React.js](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [Gemini API](https://aistudio.google.com/app/apikey)
+- [Gemini API (Google)](https://aistudio.google.com/app/apikey)
 - [Vercel](https://vercel.com/) – for deployment
 
 ---
